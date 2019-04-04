@@ -3344,71 +3344,77 @@ body.compensate-for-scrollbar {
 }
 
 /* line 50, src/scss/utilities/_icons.scss */
+.icon-youtube-w:before {
+  content: "\e907";
+  color: #fff;
+}
+
+/* line 55, src/scss/utilities/_icons.scss */
 .icon-gmail:before {
   content: "\e900";
   color: #d14836;
 }
 
-/* line 54, src/scss/utilities/_icons.scss */
+/* line 59, src/scss/utilities/_icons.scss */
 .icon-gitlab:before {
   content: "\e901";
   color: #e24329;
 }
 
-/* line 58, src/scss/utilities/_icons.scss */
+/* line 63, src/scss/utilities/_icons.scss */
 .icon-github:before {
   content: "\e902";
 }
 
-/* line 61, src/scss/utilities/_icons.scss */
+/* line 66, src/scss/utilities/_icons.scss */
 .icon-instagram:before {
   content: "\e903";
   color: #e4405f;
 }
 
-/* line 65, src/scss/utilities/_icons.scss */
+/* line 70, src/scss/utilities/_icons.scss */
 .icon-facebook:before {
   content: "\e904";
   color: #3b5998;
 }
 
-/* line 69, src/scss/utilities/_icons.scss */
+/* line 74, src/scss/utilities/_icons.scss */
 .icon-pinterest:before {
   content: "\e905";
   color: #bd081c;
 }
 
-/* line 73, src/scss/utilities/_icons.scss */
+/* line 78, src/scss/utilities/_icons.scss */
 .icon-whatsapp:before {
   content: "\e906";
   color: #25d366;
 }
 
-/* line 77, src/scss/utilities/_icons.scss */
+/* line 82, src/scss/utilities/_icons.scss */
 .icon-youtube:before {
   content: "\e907";
   color: #f00;
 }
 
-/* line 81, src/scss/utilities/_icons.scss */
+/* line 86, src/scss/utilities/_icons.scss */
 .icon-dribbble:before {
   content: "\e908";
   color: #ea4c89;
 }
 
-/* line 85, src/scss/utilities/_icons.scss */
+/* line 90, src/scss/utilities/_icons.scss */
 .icon-linkedin:before {
   content: "\e909";
   color: #0077b5;
 }
 
-/* line 89, src/scss/utilities/_icons.scss */
+/* line 94, src/scss/utilities/_icons.scss */
 .icon-twitter:before {
   content: "\e90a";
   color: #1da1f2;
 }
 
-/* line 93, src/scss/utilities/_icons.scss */
+/* line 98, src/scss/utilities/_icons.scss */
 .icon-behance:before {
   content: "\e90b";
   color: #1769ff;
